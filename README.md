@@ -9,10 +9,15 @@
 💻 Sou estudante em desenvolvimento <br>
 📫 [Acesse meu Linkedin aqui](https://www.linkedin.com/in/isabella-carvalho-a0a58524b/)
 
+Tecnologias
+------
+<img src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bower/bower-original.svg" width="100px" >
+
+------
 |Cursos       |  Certificados
 |-------------|---------------|
 Colaboração no Github | [certificado](https://www.dio.me/certificate/CIVZCGSR/share)
---------
+
 Autenticações no Github | [certificado](https://www.dio.me/certificate/PKDCFMUK/share)
 --------
 
