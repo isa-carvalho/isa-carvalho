@@ -9,8 +9,17 @@
 💻 Sou estudante em desenvolvimento <br>
 📫 [Acesse meu Linkedin aqui](https://www.linkedin.com/in/isabella-carvalho-a0a58524b/)
 
+|Cursos       |  Certificados
+|-------------|---------------|
+Colaboração no Github | [certificado](https://www.dio.me/certificate/CIVZCGSR/share)
+--------
+Autenticações no Github | [certificado](https://www.dio.me/certificate/PKDCFMUK/share)
+--------
+
+------
 
 
+![isabella status ](https://github-readme-stats.vercel.app/api?username=isa-carvalho&show_icons=true&theme=radical)
 <!--
 **isa-carvalho/isa-carvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
