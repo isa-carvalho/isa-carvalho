@@ -16,15 +16,21 @@ Tecnologias
 ------
 |Cursos       |  Certificados
 |-------------|---------------|
-Colaboração no Github | [certificado](https://www.dio.me/certificate/CIVZCGSR/share)
+|Colaboração no Github | [certificado](https://www.dio.me/certificate/CIVZCGSR/share)
+|Autenticações no Github | [certificado](https://www.dio.me/certificate/PKDCFMUK/share)
+|Autenticações no Github | [certificado](https://www.dio.me/certificate/PKDCFMUK/share)
+|Autenticações no Github | [certificado](https://www.dio.me/certificate/PKDCFMUK/share)
 
-Autenticações no Github | [certificado](https://www.dio.me/certificate/PKDCFMUK/share)
+
+
 --------
 
 ------
 
 
 ![isabella status ](https://github-readme-stats.vercel.app/api?username=isa-carvalho&show_icons=true&theme=radical)
+
+
 <!--
 **isa-carvalho/isa-carvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
