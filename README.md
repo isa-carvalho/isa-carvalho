@@ -9,17 +9,21 @@
 💻 Sou estudante em desenvolvimento <br>
 📫 [Acesse meu Linkedin aqui](https://www.linkedin.com/in/isabella-carvalho-a0a58524b/)
 
+-------
+
 Tecnologias
-------
-<img src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bower/bower-original.svg" width="100px" >
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="100px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width ="100px" />
+          
 
 ------
+
 |Cursos       |  Certificados
 |-------------|---------------|
 |Colaboração no Github | [certificado](https://www.dio.me/certificate/CIVZCGSR/share)
 |Autenticações no Github | [certificado](https://www.dio.me/certificate/PKDCFMUK/share)
-|Sobre Contas e Ferramentas
-do Github | [certigicado ](https://hermes.dio.me/certificates/YENB5Q9F.pdf)
+|Sobre Contas e Ferramentas do Github | [certificado ](https://hermes.dio.me/certificates/YENB5Q9F.pdf)
 |Github Codespace | [certificado](https://hermes.dio.me/certificates/JHHC2BYP.pdf)
 
 
@@ -35,14 +39,3 @@ do Github | [certigicado ](https://hermes.dio.me/certificates/YENB5Q9F.pdf)
 <!--
 **isa-carvalho/isa-carvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
