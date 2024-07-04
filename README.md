@@ -18,8 +18,9 @@ Tecnologias
 |-------------|---------------|
 |Colaboração no Github | [certificado](https://www.dio.me/certificate/CIVZCGSR/share)
 |Autenticações no Github | [certificado](https://www.dio.me/certificate/PKDCFMUK/share)
-|Autenticações no Github | [certificado](https://www.dio.me/certificate/PKDCFMUK/share)
-|Autenticações no Github | [certificado](https://www.dio.me/certificate/PKDCFMUK/share)
+|Sobre Contas e Ferramentas
+do Github | [certigicado ](https://hermes.dio.me/certificates/YENB5Q9F.pdf)
+|Github Codespace | [certificado](https://hermes.dio.me/certificates/JHHC2BYP.pdf)
 
 
 
